@@ -1,0 +1,16 @@
+new pic
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   public/me.jpg
+#
+# ------------------------ >8 ------------------------
+# Do not modify or remove the line above.
+# Everything below it will be ignored.
+diff --git a/public/me.jpg b/public/me.jpg
+index d0d4fee..bb1b85c 100644
+Binary files a/public/me.jpg and b/public/me.jpg differ
